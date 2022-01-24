@@ -1,2 +1,0 @@
-# Biopython-practice
-Practice Biopython
